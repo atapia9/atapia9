@@ -20,7 +20,7 @@ Me enfoco en que PyMEs y empresas adopten IA con un plan claro: diagnóstico dig
 | [acambaro-impulsa-ia](https://github.com/atapia9/acambaro-impulsa-ia) | Prototipo de diagnóstico de madurez digital para PyMEs: cuestionario de 4 pasos, puntaje por reglas y reporte con plan de 90 días. |
 | [js-intermedio-unam-fesc](https://github.com/atapia9/js-intermedio-unam-fesc) | Materiales del curso JavaScript Intermedio: ejemplos, ejercicios por sesión y proyecto integrador, con CI y verificación de enlaces. |
 | [proyecto-integrador-java-intermedio](https://github.com/atapia9/proyecto-integrador-java-intermedio) | Plantilla de curso de Java con calificador automático en GitHub Actions. |
-| [geo-audit-skill](https://github.com/atapia9/geo-audit-skill) | Skill de Claude para auditorías GEO (visibilidad y citación de una organización en sistemas de IA) en 6 fases. |
+| [tutor-carrera-tech](https://github.com/atapia9/tutor-carrera-tech) | Mega-prompt de 7 capas que convierte un contexto real y un objetivo concreto en un plan de desarrollo de 30 días, con plantilla en blanco y ejemplo de salida. |
 
 ## Stack
 
